@@ -9,7 +9,7 @@ Detector-19 is a simple "bot" to calculate a person's chance of being infected b
 
 The data used for the application of the Bayes theorem is the Indonesian population, the number of people who have been confirmed to be infected with the COVID-19 virus, and the validity of the antigen swab test kit consisting of sensitivity and specificity. All questions used in the diagnosis process are obtained from various sources/research that has been carried out
 
-The calculation results from the Bayes theorem will be used to calculate the probability of a person being infected by the COVID-19 virus by taking into account age, body temperature (Celsius), the number of vaccinations that have been carried out, and the disease experienced by the user.
+The calculation results from the Bayes theorem will be used to calculate the probability of a person being infected by the COVID-19 virus by taking into account age, body temperature (Celsius), the number of vaccinations that have been carried out, and the disease experienced by the user
 
 Try Now:
 https://swish.swi-prolog.org/p/Detector-19.pl
