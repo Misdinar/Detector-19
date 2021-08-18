@@ -1,7 +1,7 @@
 # Detector-19
 expert system for diagnosis of possible infection by the COVID-19 virus
 
-## Explanation
+### Explanation
 
 The expert system that I created implements the forward chaining method and the application of the Bayes theorem. Bayes theorem is used to determine the results of the diagnosis. Forward chaining method is used to collect scores from various questions given through the diagnosis process
 
